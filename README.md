@@ -1,4 +1,4 @@
 # Dice-Game
 
-#Languages Used
+# Languages Used
 HTML, CSS, JS
